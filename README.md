@@ -8,7 +8,7 @@
 - Live previews
 - Fullscreen mode
 - Cross platform
-
+ 
 
 ## 🚀 About Me 
 I'm a frontEnd Web developer
